@@ -14,4 +14,4 @@ This mod adds a small amount of fuel to the command pods and lander cans - space
 
 ## > Dependencies
 
-Latest version of sarbian's [Module Manager](https://github.com/sarbian/ModuleManager)
+* Latest version of sarbian's [Module Manager](https://github.com/sarbian/ModuleManager)
