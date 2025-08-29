@@ -1,8 +1,7 @@
 # Faulcon Pad Abort Systems
 
-Have you ever landed on the Mun, got back into Kerbin orbit, but just barely ran out of fuel before reentry?
-Has your Grand Tour ship been unable to land its crew back on Kerbin because you ran out of fuel?
-Does your space station lack effective escape vehicles for fear of part count issues?
+Have you ever watched Kerbals look on in fear as their rocket exploded beneath them, and the stock LES slammed them into the ground? Did you try your hardest with stock parts, but didn't end up with a working 
+pad abort system? Are you looking for a mod to fix this problem?
 
 Look no farther... with Faulcon Pad Abort Systems!
 
